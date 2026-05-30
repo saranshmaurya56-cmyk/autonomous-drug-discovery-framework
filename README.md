@@ -1,5 +1,6 @@
 [![DOI](https://zenodo.org/badge/1254315757.svg)](https://doi.org/10.5281/zenodo.20459877)
-# autonomous-drug-discovery-framework
+# Autonomous Transcriptomic Restoration and Drug Repurposing Framework:
+A Latent-Space Approach to Disease-State Translation in Breast Cancer
 An end-to-end VAE and GNN framework for autonomous transcriptomic restoration and drug repurposing.
 ## Robustness & Validation
 
